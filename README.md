@@ -3,7 +3,7 @@
 ### Resources
 
 - _Client_ - React, Hooks, Apollo
-- _Server_ - Node, Express, GraphQL
+- _Server_ - Node, Express, Axios, GraphQL
 
 ### Usage
 
