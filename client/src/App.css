@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f5f6f7;
+  font-family: "Nunito", sans-serif;
+}
+
+.App {
+  padding: 1rem;
+  max-width: 728px;
+  margin: auto;
+}
+
+.App > h1 {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.card,
+.profile {
+  background: #fff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.card--title,
+.profile--title {
+  font-size: 1.2rem;
+}
+
+.card ul,
+.profile ul {
+  list-style: none;
+}
+
+.card ul li {
+  margin-right: 1rem;
+  font-size: 0.9rem;
+}
+
